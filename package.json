@@ -3,10 +3,21 @@
   "displayName": "WhatTodo",
   "description": "A simple to-do list manager for .todo files.",
   "version": "1.0.0",
-  "publisher": "your-name",
+  "publisher": "alexjscodes",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.82.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexjscodes/whattodo"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "extension",
+    "VSCode"
+  ],
   "categories": ["Other"],
   "activationEvents": [
     "onLanguage:todo",
@@ -14,7 +25,7 @@
   ],
   "main": "./out/extension.js",
   "contributes": {
-  "customEditors": [
+    "customEditors": [
     {
       "viewType": "whatTodo.todoEditor",
       "displayName": "WhatTodo Editor",
@@ -34,7 +45,7 @@
   "devDependencies": {
     "typescript": "^5.0.0",
     "vsce": "^2.15.0",
-    "@types/vscode": "^1.96.0",
+    "@types/vscode": "^1.82.0",
     "@eslint/js": "^9.17.0",
     "@stylistic/eslint-plugin": "^2.12.1",
     "@types/node": "^22.10.2",
