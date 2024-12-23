@@ -2,7 +2,7 @@
   "name": "what-todo",
   "displayName": "WhatTodo",
   "description": "A simple to-do list manager for .todo files.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "alexjscodes",
   "license": "MIT",
   "icon": "images/logo for a todo list visual studio code extension called WhatTodo.png",
