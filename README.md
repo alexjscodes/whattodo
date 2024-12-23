@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- [GitHub Repository](https://github.com/yourusername/whattodo)
-- [Visual Studio Marketplace Page](https://marketplace.visualstudio.com/items?itemName=your-publisher-id.whattodo)
+- [GitHub Repository](https://github.com/alexjscodes/whattodo)
+- [Visual Studio Marketplace Page](https://marketplace.visualstudio.com/items?itemName=alexjscodes.whattodo)
 
 ---
